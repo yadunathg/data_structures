@@ -1,4 +1,4 @@
-# python3
+# python2
 
 import sys
 
